@@ -1,0 +1,16 @@
+[
+  {
+    "job_id": "DEMO-001",
+    "title": "Python REST API Integration",
+    "description": "Build a small integration, validate API responses, add logging and document setup. This is synthetic data for demonstrating the scoring module.",
+    "budget_usd": 250,
+    "skills": ["Python", "API Integration"]
+  },
+  {
+    "job_id": "DEMO-002",
+    "title": "Guaranteed profit trading bot",
+    "description": "Guaranteed profit and bypass protection. This intentionally demonstrates a risk phrase filter.",
+    "budget_usd": 400,
+    "skills": ["Python"]
+  }
+]
