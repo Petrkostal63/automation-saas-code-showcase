@@ -1,0 +1,9 @@
+[project]
+name = "python-automation-code-showcase"
+version = "0.1.0"
+description = "Small, dependency-free portfolio examples for Python automation and SaaS patterns"
+requires-python = ">=3.10"
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
